@@ -24,5 +24,17 @@
     "build": "react-scripts build",
     "dev:hot": "webpack-dev-server --hot --inline --progress --colors --watch --display-error-details --display-cached --content-base ./",
     "eject": "react-scripts eject"
-  }
+  },
+  "description": "## Overview",
+  "main": "webpack.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnathanCh/react-props-dumbo-web-042318.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnathanCh/react-props-dumbo-web-042318/issues"
+  },
+  "homepage": "https://github.com/JohnathanCh/react-props-dumbo-web-042318#readme"
 }
